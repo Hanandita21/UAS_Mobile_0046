@@ -8,7 +8,7 @@ TextStyle loginText = GoogleFonts.poppins(
 );
 
 TextStyle login = GoogleFonts.urbanist(
-  color: Colors.white,
+  color: Colors.grey,
   fontWeight: FontWeight.w600,
   fontStyle: FontStyle.normal,
   fontSize: 15,
